@@ -9,4 +9,4 @@ Daily (GHCN-Daily), Version 3.26.NOAA National Climatic Data Center. http://doi.
 
 The data shows a burst of record-breaking cold weather in early 2015.
 
-<img src="https://github.com/danielmccusker/ann-arbor-weather/blob/main/vis.png?raw=true" height="200"> 
+<img src="https://github.com/danielmccusker/ann-arbor-weather/blob/master/vis.png?raw=true" height="200"> 
